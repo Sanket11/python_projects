@@ -9,7 +9,7 @@ The following simplified model of a single robot moving in a square 5x5 room sho
 
 The robot starts out at some random position in the room, and with a random direction of motion. The illustrations below show the robot's position (indicated by a black dot) as well as its direction (indicated by the direction of the red arrowhead).
 
-![Alt text](https://raw.github.com/hvu53/python_projects/master/CleaningRobots/images/robotsimulation.png
+![Alt tag](https://raw.github.com/hvu53/python_projects/master/CleaningRobots/images/robotsimulation.png
 
 ## Simulation Details
 
